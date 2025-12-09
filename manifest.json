@@ -17,9 +17,6 @@
     "48": "assets/images/icon.png",
     "128": "assets/images/icon.png"
   },
-  "background": {
-    "service_worker": "src/scripts/background.js"
-  },
   "content_scripts": [
     {
       "matches": ["https://www.youtube.com/*"],

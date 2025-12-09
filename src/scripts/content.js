@@ -1,6 +1,4 @@
-let unsubscribeButtons = [];
-let unsubscribeIndex = 0;
-let unsubscribeIntervalId = null;
+var unsubscribeButtons, unsubscribeIndex, unsubscribeIntervalId;
 
 function clickUnsubscribeSequence(button) {
     if (!button) return;
