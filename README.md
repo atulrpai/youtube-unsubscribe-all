@@ -20,6 +20,8 @@ To install the extension, follow these steps :
 2. Click on the extension icon in the toolbar to open the popup
 3. Use the buttons in the popup to perform the desired actions
 
+![](assets/images/demo.gif)
+
 ## Contributing
 
 Contributions are welcome. If you have ideas for new features or improvements, feel free to open an issue or submit a pull request.
